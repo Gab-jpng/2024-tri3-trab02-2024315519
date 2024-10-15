@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  border: 0;
+}
+
+header {
+  min-width: 100px;
+  min-height: 100px;
+  background-color: darkgoldenrod;
+ 
+}
+h1 {
+  color: whitesmoke;
+} 
+aside {
+  min-width: 100px;
+  min-height: 100px;
+  background-color: #F79F1F;
+  
+ 
+}
+
+main {
+  min-width: 100px;
+  min-height: 100px;
+  background-color: #1289A7;
+  padding: 1rem;
+ 
+}
+
+footer {
+  min-width: 100px;
+  min-height: 100px;
+  background-color: darkgoldenrod;
+  
+ 
+}
